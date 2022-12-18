@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Undergraduate Dual Degree: Bachelors of Science - Extended Physics Major --- Bachelors of Mathematics - Applied Mathematics Major, The University of Queensland, *February 2017 - December 2021* 
-* High School: ATAT Equivalent: 98, Dux, Kimberley College, Carbrook QLD  
+* High School: ATAR Equivalent: 98, Dux, Kimberley College, Carbrook QLD  
 
 Work experience
 ======
