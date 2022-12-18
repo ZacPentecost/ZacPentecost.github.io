@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Undergraduate Dual Degree: Bachelors of Science - Extended Physics Major --- Bachelors of Mathematics - Applied Mathematics Major, The University of Queensland, *February 2017 - December 2021* 
+* High School: ATAT Equivalent: 98, Dux, Kimberley College, Carbrook QLD  
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant           <i>March 2022 - Current</i></pre>        
+  * QIMR Berghofer Research Institute, Herston, QLD
+  * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Bartender and Waiter         <i>December 2018 - March 2022</i></pre>       
+  * The Glen Hotel, Eight Mile Plains, QLD
+  * Weekend work as a bartender and waiter. Developed key interpersonal skills, strength under pressure, keen eye to detail and leadership qualities such as diligence, pro-activity, respect for workers and implementing an efficient work space.
+
+* General Worker               <i>December 2016 - December 2017</i></pre>
+  * Holmwood Highgate, Loganholme, QLD
+  * Assisting in the design and manufacture of bulk liquid storage and transportation systems. Solving complex situations, demonstrating time management, developing communcations and teamwork under a large team.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python/Matlab/C/JavaScript/Linux/HTML/CSS
+* Unity - cross-platform game engine
+* High Performance Computing (slurm/pbs)
+* Machine Learning (Tensorflow)
+* LaTeX
 
 Publications
 ======
