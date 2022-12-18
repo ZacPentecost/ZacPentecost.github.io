@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
-* Research Assistant           <i>March 2022 - Current</i></pre>        
+* <pre>Research Assistant           <i>March 2022 - Current</i></pre>        
   * QIMR Berghofer Research Institute, Herston, QLD
   * COVID modelling research predicting the health outcomes of the Queensland population with the introduction of covid variants and medical interventions. 
 
-* Bartender and Waiter         <i>December 2018 - March 2022</i></pre>       
+* <pre>Bartender and Waiter         <i>December 2018 - March 2022</i></pre>       
   * The Glen Hotel, Eight Mile Plains, QLD
   * Weekend work as a bartender and waiter. Developed key interpersonal skills, strength under pressure, keen eye to detail and leadership qualities such as diligence, pro-activity, respect for workers and implementing an efficient work space.
 
-* General Worker               <i>December 2016 - December 2017</i></pre>
+* <pre>General Worker               <i>December 2016 - December 2017</i></pre>
   * Holmwood Highgate, Loganholme, QLD
   * Assisting in the design and manufacture of bulk liquid storage and transportation systems. Solving complex situations, demonstrating time management, developing communcations and teamwork under a large team.
 
@@ -36,7 +36,7 @@ Skills
 * Machine Learning (Tensorflow)
 * LaTeX
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
