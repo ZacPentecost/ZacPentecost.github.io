@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Zac Pentecos. I am curious mathematician/ physicists with knowledge in numerous computational languages
+Hi! My name is Zac Pentecost. I am curious mathematician/ physicists with knowledge in numerous computational languages
 and methods in regard to science - particularly modeling and solving mathematical and physical problems. I am currently researching and modeling COVID predicting the health outcomes of the Queensland population with the introduction of
 covid variants and medical interventions. 
 
