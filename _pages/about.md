@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-TODO 
+Hi! My name is Zac Pentecos. I am curious mathematician/ physicists with knowledge in numerous computational languages
+and methods in regard to science - particularly modeling and solving mathematical and physical problems. I am currently researching and modeling COVID predicting the health outcomes of the Queensland population with the introduction of
+covid variants and medical interventions. 
 
-Put your stuff here. 
+
 
 
 <!-- Since October 2021, I am a PhD student with the Clinical Brain Network and Brain Modelling groups at QIMR Berghofer. I am researching how activity in the brain can be described with physics-based models, with aims of describing pathology and treatments with non-invasive stimulation techniques. 
