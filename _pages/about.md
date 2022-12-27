@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 TODO 
+
+Put your stuff here. 
 
 
 <!-- Since October 2021, I am a PhD student with the Clinical Brain Network and Brain Modelling groups at QIMR Berghofer. I am researching how activity in the brain can be described with physics-based models, with aims of describing pathology and treatments with non-invasive stimulation techniques. 
